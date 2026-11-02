@@ -9,7 +9,7 @@ sale_id,market_date,,vendor_name,category,items_sold,,payment_type
 1008,06/13/2026,bronzeville,Southside Soap Co.,Crafts,twelve,$84.00,CASH
 1009,2026-06-13,Bronzeville,Taqueria El Sol,Food,39,$351.00,Card
 1010,06/13/2026,Bronzeville,Westside Threads,crafts,,NULL,
-1011,Jun 20 2026,Logan Square,Café Lumière,Food,61,$244.00,Mobile
+1011,Jun 20 2026,Logan Square,Cafe Lumiere,Food,61,$244.00,Mobile
 1012,Jun 20 2026,Logan Square,Green Roots Farm,Produce,7.0,$31.50,cash
 1013,Jun 20 2026,Logan Sq.,Bead & Bloom,Crafts,9,108,Card
 1014,Jun 20 2026,Logan Square,Nana's Sweet Potato Pies,FOOD ,30,$270.00,card
