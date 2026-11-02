@@ -1,0 +1,5 @@
+# Install with:  python -m pip install -r requirements.txt   (Windows: py -m pip install -r requirements.txt)
+requests>=2.31
+python-dotenv>=1.0
+# Optional for Task 3, only if you used it in class:
+# pandas>=2.0
